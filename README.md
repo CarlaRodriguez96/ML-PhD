@@ -1,5 +1,5 @@
 # Sami
-ML notebooks
+Machine Learning and Statistics notebooks:
 
 (1) LaTeX notes from 
 
