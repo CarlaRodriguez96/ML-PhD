@@ -1,5 +1,3 @@
-# Sami
-
 ### Machine Learning and Statistics notebooks:
 
 (1) Jupyter notebooks based on the online courses: 
